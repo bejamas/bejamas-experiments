@@ -24,7 +24,7 @@ body {
   place-items: center;
   background-size: cover;
   background-position: center;
-  background-image: url(assets/bg.web);
+  background-image: url(assets/bg.webp);
 }
 
 .card {
