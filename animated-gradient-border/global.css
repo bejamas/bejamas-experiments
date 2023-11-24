@@ -24,7 +24,7 @@ body {
   place-items: center;
   background-size: cover;
   background-position: center;
-  background-image: url(https://i.imgur.com/iI8Nvjh.jpg);
+  background-image: url(assets/bg.web);
 }
 
 .card {
